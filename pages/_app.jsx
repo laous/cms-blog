@@ -1,7 +1,6 @@
 import "../styles/globals.scss";
 import "tailwindcss/tailwind.css";
 import { Layout } from "../components";
-import { useEffect, useState } from "react";
 
 function MyApp({ Component, pageProps }) {
   return (
